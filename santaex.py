@@ -1,0 +1,1 @@
+linne=["kabita is my name","mahi is my friand","manvi is my name"]

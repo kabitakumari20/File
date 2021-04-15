@@ -1,0 +1,5 @@
+file=open("peo_ex","w")
+b=file.write("hey i am manvi")
+# f = open("demofile.txt", "rt") 
+print(b)
+file.close()
